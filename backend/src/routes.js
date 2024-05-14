@@ -3,8 +3,8 @@ const express = require('express');
 const routes = express.Router();
 const users = [{
     id: 1,
-    name: 'Nail',
-    email: 'contato@ig.com.br',
+    name: 'Nailton',
+    email: 'nailtonvieira@gmail.com',
     password: '123456'
 }];
 
